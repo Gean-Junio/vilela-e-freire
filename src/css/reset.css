@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #EEBA2B;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+p{
+    font-size: 1.8rem;
+    font-family: "Montserrat", sans-serif;
+}
+
+h2{
+    font-size: 4rem;
+}
+
+h1, h2{
+    font-family: "Playfair Display", serif;
+}
+
+h3{
+    font-size: 2.5rem;
+}
